@@ -1,0 +1,47 @@
+{
+  "version": 0.13,
+  "release_date": "2016-01-03",
+  "last_modified": "2016-02-09",
+  "firebrno_vyjezdy": [
+    {
+      "district_name": "Všechny okresy",
+      "district_url": "http:\/\/www.firebrno.cz\/rss\/udalosti?format=xml",
+      "d_id": "d1"
+    },
+    {
+      "district_name": "Blansko",
+      "district_url": "http:\/\/www.firebrno.cz\/rss\/udalosti\/blansko?format=xml",
+      "d_id": "d2"
+    },
+    {
+      "district_name": "Brno-Město",
+      "district_url": "http:\/\/www.firebrno.cz\/rss\/udalosti\/brno-mesto?format=xml",
+      "d_id": "d3"
+    },
+    {
+      "district_name": "Brno-Venkov",
+      "district_url": "http:\/\/www.firebrno.cz\/rss\/udalosti\/brno-venkov",
+      "d_id": "d4"
+    },
+    {
+      "district_name": "Břeclav",
+      "district_url": "http:\/\/www.firebrno.cz\/rss\/udalosti/breclav",
+      "d_id": "d5"
+    },
+    {
+      "district_name": "Hodonín",
+      "district_url": "http:\/\/www.firebrno.cz\/rss\/udalosti\/hodonin",
+      "d_id": "d6"
+    },
+    {
+      "district_name": "Vyškov",
+      "district_url": "http:\/\/www.firebrno.cz\/rss\/udalosti\/vyskov",
+      "d_id": "d7"
+    },
+    {
+      "district_name": "Znojmo",
+      "district_url": "http:\/\/www.firebrno.cz\/rss\/udalosti\/znojmo",
+      "d_id": "d8"
+    }
+  ]
+}

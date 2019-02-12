@@ -1,0 +1,47 @@
+{
+  "version": 0.13,
+  "release_date": "2016-01-03",
+  "last_modified": "2016-02-09",
+  "curated_feeds": [
+    {
+      "source_name": "Všechny okresy",
+      "source_url": "http:\/\/www.firebrno.cz\/rss\/udalosti?format=xml",
+      "source_category": "Gadgets"
+    },
+    {
+      "source_name": "Blansko",
+      "source_url": "http:\/\/www.firebrno.cz\/rss\/udalosti\/blansko?format=xml",
+      "source_category": "International"
+    },
+    {
+      "source_name": "Brno-Město",
+      "source_url": "http:\/\/www.firebrno.cz\/rss\/udalosti\/brno-mesto?format=xml",
+      "source_category": "Entertainment"
+    },
+    {
+      "source_name": "Brno-Venkov",
+      "source_url": "http:\/\/www.firebrno.cz\/rss\/udalosti\/brno-venkov",
+      "source_category": "Research"
+    },
+    {
+      "source_name": "Břeclav",
+      "source_url": "http:\/\/www.firebrno.cz\/rss\/udalosti/breclav",
+      "source_category": "Politics"
+    },
+    {
+      "source_name": "Hodonín",
+      "source_url": "http:\/\/www.firebrno.cz\/rss\/udalosti\/hodonin",
+      "source_category": "Politics"
+    },
+    {
+      "source_name": "Vyškov",
+      "source_url": "http:\/\/www.firebrno.cz\/rss\/udalosti\/vyskov",
+      "source_category": "Politics"
+    },
+    {
+      "source_name": "Znojmo",
+      "source_url": "http:\/\/www.firebrno.cz\/rss\/udalosti\/znojmo",
+      "source_category": "Politics"
+    }
+  ]
+}

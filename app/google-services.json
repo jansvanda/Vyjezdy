@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "528864584399",
+    "firebase_url": "https://vyjezdy-5f19d.firebaseio.com",
+    "project_id": "vyjezdy-5f19d",
+    "storage_bucket": "vyjezdy-5f19d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:528864584399:android:81f3de0d42698db4",
+        "android_client_info": {
+          "package_name": "com.hans.svandasek.fire.vyjezdy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "528864584399-rpb9qhbku4t39eqbs03tc5qqqnrqdjet.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.hans.svandasek.fire.vyjezdy",
+            "certificate_hash": "ebd1ff98f853e9eee189568f3ade176204d56545"
+          }
+        },
+        {
+          "client_id": "528864584399-dd4ntov50sksi4kfsd96ql60olvkarqf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDNQoCKBXd7J0-JHxdh4t676A0fqhWunsA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "528864584399-dd4ntov50sksi4kfsd96ql60olvkarqf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

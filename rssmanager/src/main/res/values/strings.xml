@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">RssManager</string>
+    <string name="cancel">Zrušit</string>
+    <string name="loading_feeds">Načítám výjezdy</string>
+</resources>
